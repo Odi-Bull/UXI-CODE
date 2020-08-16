@@ -1,4 +1,4 @@
-#GeneToken/WadCoin/BitBase/FHe m.Bit
+#GeneToken/WadCoin/BitBase/FHe m.Bit.WadToken
 
 
 
